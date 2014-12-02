@@ -22,10 +22,10 @@ Pinouts
 
 | Transducer | fcn | Cat 5 Ethernet |
 | ---------- | --- | -------------- |
-| 1          | UL  | 2              |
-| 2          | UR  | 4              |
+| 1          | UL  | 8              |
+| 2          | UR  | 6              |
 | 3          | GND | 1, 3, 5, 7     |
-| 4          | LR  | 6              |
-| 5          | LL  | 8              |
+| 4          | LR  | 4              |
+| 5          | LL  | 2              |
 
 > ...where UL = Upper Left, etc.
