@@ -20,9 +20,10 @@ Touchscreen Side
 
 | Transducer | fcn | Cat 5 Ethernet |
 | ---------- | --- | -------------- |
-| 1          | ul  | 2              |
-| 2          | ur  | 4              |
-| 3          | gnd | 1, 3, 5, 7     |
-| 4          | lr  | 6              |
-| 5          | ll  | 8              |
+| 1          | UL  | 2              |
+| 2          | UR  | 4              |
+| 3          | GND | 1, 3, 5, 7     |
+| 4          | LR  | 6              |
+| 5          | LL  | 8              |
 
+> ...where UL = Upper Left, etc.
