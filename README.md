@@ -6,7 +6,9 @@ Building a Touchscreen from components.
 Pinouts
 -------
 
-Computer Side
+![](https://raw.githubusercontent.com/hoosierEE/touchscreen-kiosk/master/images/pinouts.jpg)
+
+### Computer Side
 
 | USB B receptacle | 3M Microtouch USB controller |
 |------------------|------------------------------|
@@ -16,7 +18,7 @@ Computer Side
 | 4                | power return                 |
 | 5                | shield                       |
 
-Touchscreen Side
+### Touchscreen Side
 
 | Transducer | fcn | Cat 5 Ethernet |
 | ---------- | --- | -------------- |
@@ -25,7 +27,5 @@ Touchscreen Side
 | 3          | GND | 1, 3, 5, 7     |
 | 4          | LR  | 6              |
 | 5          | LL  | 8              |
-
-![](https://raw.githubusercontent.com/hoosierEE/touchscreen-kiosk/master/images/pinouts.jpg)
 
 > ...where UL = Upper Left, etc.
