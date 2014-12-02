@@ -26,4 +26,6 @@ Touchscreen Side
 | 4          | LR  | 6              |
 | 5          | LL  | 8              |
 
+![](https://raw.githubusercontent.com/hoosierEE/touchscreen-kiosk/master/images/pinouts.jpg)
+
 > ...where UL = Upper Left, etc.
